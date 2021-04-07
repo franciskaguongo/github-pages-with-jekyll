@@ -1,15 +1,17 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Code Strapper
+author: Francis Kaguongo
+email: franciskaguongo00@gmail.com
+description: > Tech trends are the biggest changes one can hardly adjust to. 
+  This makes us search and accept new trends and also improve on the old ones as need increases. 
+  I am among them who do the invention and innovation of the hardware and software based on needs. 
+  Hope you will enjoy my codes and even interact with them. 
+  I will be pleased to hear your feedback...  # this means to ignore newlines until "baseurl:"
+  
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: none # DO NOT include the @ character, or else the build will fail!
+github_username:  franciskaguongo # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-cayman
+theme: minima
